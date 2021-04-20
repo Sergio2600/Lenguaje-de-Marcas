@@ -6,6 +6,14 @@ Adaptacion a movil y otros dispositivos...
 https://www.destacaimagen.com/diseno-y-maquetacion-web-smartphones-y-tablets/
 https://www.youtube.com/watch?v=HtWIrGqbEwI
 
+    Adaptación para ancho variable de monitores de más de 1300px de ancho.
+    Adaptación de ancho fijo de resoluciones de 900 a 1300px de ancho.
+    Adaptación optimizada para verse en un iPad en posición vertical 768px.
+    Adaptación optimizada para verse en un iPad en posición horizontal 1024px.
+    Adaptación optimizada para verse en un iPhone posición vertical 375px.
+    Adaptación optimizada para verse en un iPhone posición horizontal 667px.
+
+
 
 Ejemplos  Formularios css
 https://www.creativosonline.org/formularios-css-html.html
