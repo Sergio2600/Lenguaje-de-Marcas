@@ -18,3 +18,6 @@ https://programacion.net/articulo/12_librerias_de_css_para_efectos_hover_1511
 Redes sociales
 https://webgenio.com/blog/25-bonitos-botones-redes-sociales-html-css/
 
+
+Header, navegacion & footer compartidos...
+https://es.stackoverflow.com/questions/131084/pegar-header-y-footer-en-varias-paginas
