@@ -14,6 +14,9 @@ https://alfonsopuig.es/bordes-redondeados-con-css/
 https://www.html6.es/t11_bordes.html
 
 
+Barra de busqueda
+https://webdesign.tutsplus.com/es/tutorials/css-experiments-with-a-search-form-input-and-button--cms-22069
+
 
 Adaptacion a movil y otros dispositivos...
 https://www.destacaimagen.com/diseno-y-maquetacion-web-smartphones-y-tablets/
