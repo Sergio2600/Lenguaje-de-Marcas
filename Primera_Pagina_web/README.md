@@ -2,6 +2,19 @@ Menus desplegables...
 https://escss.blogspot.com/2013/04/drop-down-css.html
 https://www.youtube.com/watch?v=oZa2Ut8u2S0
 
+https://www.youtube.com/watch?v=EB4BG3QZn3o
+
+Edicion de textos css:
+https://d4ni.es/efectos-css-decorativos-para-textos/
+https://blog.aulaformativa.com/ejemplos-efectos-de-texto-css-codepen/
+
+
+Redondeado bordes esquinas recuadros css
+https://alfonsopuig.es/bordes-redondeados-con-css/
+https://www.html6.es/t11_bordes.html
+
+
+
 Adaptacion a movil y otros dispositivos...
 https://www.destacaimagen.com/diseno-y-maquetacion-web-smartphones-y-tablets/
 https://www.youtube.com/watch?v=HtWIrGqbEwI
@@ -29,3 +42,8 @@ https://webgenio.com/blog/25-bonitos-botones-redes-sociales-html-css/
 
 Header, navegacion & footer compartidos...
 https://es.stackoverflow.com/questions/131084/pegar-header-y-footer-en-varias-paginas
+
+
+
+EJEMPLO DISEÑO:
+https://starwars.fandom.com/es/wiki/Leia_Organa_Solo#Finales_alternativos
