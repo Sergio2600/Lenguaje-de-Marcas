@@ -47,6 +47,9 @@ Header, navegacion & footer compartidos...
 https://es.stackoverflow.com/questions/131084/pegar-header-y-footer-en-varias-paginas
 
 
+Fuentes para css
+https://www.w3schools.com/css/css_font.asp
+
 
 EJEMPLO DISEÑO:
 https://starwars.fandom.com/es/wiki/Leia_Organa_Solo#Finales_alternativos
