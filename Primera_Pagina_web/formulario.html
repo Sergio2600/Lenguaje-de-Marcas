@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios</title>
+    <link rel="stylesheet" type="text/css" href="css/custom.css">
+</head>
+<body>
+    <div>
+       <h1><b>Formulario de inscripción</b></h1>
+       <form>
+        <fieldset><legend><b>Registrate en nuestra galaxia</b></legend>
+            <label for="nombre">*Nombre: </label>
+            <input id="nombre" type="text" name="nombre"/>
+
+            <label for="apellidos">*Apellidos: </label>
+            <input id="apellidos" type="text" name="apellidos"/>
+            <br>
+            <label for="direccion">*Dirección </label>
+            <input id="direccion" type="text" name="correo"/>
+            
+            <label for="codigo_postal">*Codigo Postal </label>
+            <input id="codigo_postal" placeholder="28045" type="text" name="codigo_postal"/>
+            <br>
+            <label for="email">Correo electrónico: </label>
+            <input id="correo" placeholder="example@gmail.com" type="text" name="correo"/>
+            
+            <label for="telefono">Telefono: </label>
+            <input id="telefono_movil" type="number" name="telefono_movil"/>
+            <br>
+            <label for="telefono">Telefono fijo: </label>
+            <input id="telefono_fijo" type="number" name="telefono_fijo"/>
+            <label for="sexo">*Sexo: </label>
+            <select name="sexo" id="sexo">
+                <option>Por defecto</option>
+                <option>Hombre</option>
+                <option>Mujer</option>
+            </select>
+            <br>
+       </form>
+    </div>
+    <img width="101%" height="365px" src="images/imagen_formulario.jpg">
+</body>
+</html>  
